@@ -25,7 +25,6 @@ A step by step series of examples that tell you have to get a development env ru
 
 ### Creating a object / instance
 progressBar(fixed_width = 0, pos_Line = 0, pos_Column = 0, ind_NewLine = False)
-
 Description: Init class with max Size(fixed_width) Line (pos_Line) and Column (pos_Column) to show progress bar, and ind_NewLine that show all status update in same line (False) or in new line (True)
 
 ### print_Running
@@ -149,7 +148,7 @@ for satr_File in lst_Arquivos:
     print '\r'  
     
 ```
-[![](https://github.com/faustobranco/progressbar/blob/master/Capture.PNG)](https://github.com/faustobranco/progressbar/blob/master/Capture.PNG)
+![](Capture.PNG)
 
 ## Versioning
 ```
